@@ -25,11 +25,18 @@ then press run it will save in run table
 <img width="1401" height="122" alt="image" src="https://github.com/user-attachments/assets/b6d8c10c-ccd6-4384-86e9-60bcacb42cf1" />
 
 
+
 get_run_pose.php
+
+
 
 <img width="1919" height="664" alt="image" src="https://github.com/user-attachments/assets/c5cc536e-2f3c-400d-88ad-12b0a3e7fe78" />
 
+
+
 <img width="1310" height="159" alt="image" src="https://github.com/user-attachments/assets/ff19a7a1-e71b-4119-9976-6456e7a20918" />
+
+
 
 <img width="1919" height="246" alt="image" src="https://github.com/user-attachments/assets/a105d222-409c-4223-89b8-6547029a7317" />
 
