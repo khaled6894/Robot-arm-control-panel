@@ -26,7 +26,8 @@ then press run it will save in run table
 
 
 
-get_run_pose.php
+
+the get_run_pose
 
 
 
